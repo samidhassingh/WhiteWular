@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528234621059",
+    "firebase_url": "https://whitewular-891c8.firebaseio.com",
+    "project_id": "whitewular-891c8",
+    "storage_bucket": "whitewular-891c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528234621059:android:89694d4e25d351dd0a93b6",
+        "android_client_info": {
+          "package_name": "com.example.whitewular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528234621059-ic4pkccq8e1sa8s0crmsvc9u34b5nqo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBT3UjESC8Tq4EnyDQfQV5hywWOTnU23U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528234621059-ic4pkccq8e1sa8s0crmsvc9u34b5nqo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
